@@ -1,3 +1,7 @@
+logs/
+data/*.zip
+data/*_Data
+split/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
